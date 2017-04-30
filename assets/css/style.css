@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+  margin:0 ;
+}
+
+body {
+	color: white;
+	background: url(http://wallpapercave.com/wp/IpGSDFe.jpg);
+
+}
+
+h1 {
+	font-size:60px;
+	background:purple;
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom:20px;
+	margin-bottom:0px;
+}
+h2 {
+	font-size: 50px;
+	text-align: center;
+	
+}
+.header2{
+	margin-top: 0px;
+	background: black;
+	width: 100%;
+	display: inline-block;
+}
+#eye1box{
+	display: inline-block;
+	width:33%;
+	float:left;
+}
+#eye2box{
+	display: inline-block;
+	float:right;
+	
+}
+#h2words{
+	display: inline-block;
+	width:33%;
+	
+}
+
+
+#eye1 {
+
+	height: 100px;
+	width: 100px;
+	
+}
+
+
+
+
+#eye2 {
+	height: 100px;
+	width: 100px;
+	
+}
+
+
+.game{
+	margin-top:40px;
+	clear: both;
+	font-size: 30px;
+	margin-left:30%;
+	margin-right:30%;
+	padding: 10px;
+	background:darkblue;
+	border-width: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+
+.caution{
+	text-align: center;
+	margin: 5px;
+	padding:5px;
+	font-size: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background:white;
+	color: black;
+
+}
